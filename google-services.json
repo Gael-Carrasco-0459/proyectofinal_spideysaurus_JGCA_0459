@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "928073302109",
+    "project_id": "bdcruddino",
+    "storage_bucket": "bdcruddino.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928073302109:android:e6a94bcaa850f9897e4db4",
+        "android_client_info": {
+          "package_name": "com.example.crudspidey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUU9GAQlPJle2pwzocsFAX7vqShkOaMYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928073302109:android:8d1dcef1dbbaa6f87e4db4",
+        "android_client_info": {
+          "package_name": "com.spidey.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUU9GAQlPJle2pwzocsFAX7vqShkOaMYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
